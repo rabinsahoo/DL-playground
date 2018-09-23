@@ -5,6 +5,7 @@ Deep Learning notes.
 * [Setup - Software, Hardware](https://github.com/vijayDL/DL-playground/blob/master/background/Setup%20-%20Software%2C%20hardware.ipynb): Software and Hardware setup for DL.
 * [Introduction to Python](https://github.com/vijayDL/DL-playground/blob/master/background/Python%20tutorials.ipynb): A Crash course on python.
 * [Introduction to Numpy](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Numpy%20Tutorials.ipynb): A Crash course on Numpy.
+* [INtroduction to Pandas](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Pandas%20Crash%20Course.ipynb): A crash course on Pandas for manipulating and analysing data.
 
 ## Intro
  * [Understanding bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
