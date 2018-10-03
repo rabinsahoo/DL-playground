@@ -15,7 +15,7 @@ Deep Learning notes.
     How does NN classify non linear data?. Is it a stacked ensemble of linear classifiers?.
  * [Understanding gradient flows](https://github.com/vijayDL/DL-playground/blob/master/intro/2.%20Gradient%20Flow.ipynb):
     Understanding Backpropagation using gradient flow.
- * [An overview of gradient desent optimization algorithms] (http://ruder.io/optimizing-gradient-descent/): Which Deep learning optimizers to use?.
+ * [An overview of gradient desent optimization algorithms](http://ruder.io/optimizing-gradient-descent/): Which Deep learning optimizers to use?.
     
 ## CNN
  * [Understanding convolution](https://github.com/vijayDL/DL-playground/blob/master/cnn/1.%20Understanding%20Convolution.ipynb):  Implementing the convolution from scratch, and comparing it with tensorflow implementation.
