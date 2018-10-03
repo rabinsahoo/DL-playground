@@ -7,6 +7,7 @@ Deep Learning notes.
 * [Introduction to Numpy](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Numpy%20Tutorials.ipynb): A Crash course on Numpy.
 * [INtroduction to Pandas](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Pandas%20Crash%20Course.ipynb): A crash course on Pandas for manipulating and analysing data.
 * [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) : Code Notebooks from python machine learning book.
+* [Matrix Calculus for Machine Learning](http://explained.ai/matrix-calculus/index.html): Introduction to the math for Deep learning.
 
 ## Intro
  * [Introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). Read atleast the first 4 chapters.
