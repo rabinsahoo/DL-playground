@@ -6,13 +6,16 @@ Deep Learning notes.
 * [Introduction to Python](https://github.com/vijayDL/DL-playground/blob/master/background/Python%20tutorials.ipynb): A Crash course on python.
 * [Introduction to Numpy](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Numpy%20Tutorials.ipynb): A Crash course on Numpy.
 * [INtroduction to Pandas](https://raw.githubusercontent.com/vijayDL/DL-playground/master/background/Pandas%20Crash%20Course.ipynb): A crash course on Pandas for manipulating and analysing data.
+* [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) : Code Notebooks from python machine learning book.
 
 ## Intro
+ * [Introduction to statistical learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf). Read atleast the first 4 chapters.
  * [Understanding bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
  * [Introduction to Neural networks](https://github.com/vijayDL/DL-playground/blob/master/intro/1.%20Intro%20to%20Neural%20Networks.ipynb):
     How does NN classify non linear data?. Is it a stacked ensemble of linear classifiers?.
  * [Understanding gradient flows](https://github.com/vijayDL/DL-playground/blob/master/intro/2.%20Gradient%20Flow.ipynb):
     Understanding Backpropagation using gradient flow.
+ * [An overview of gradient desent optimization algorithms] (http://ruder.io/optimizing-gradient-descent/): Which Deep learning optimizers to use?.
     
 ## CNN
  * [Understanding convolution](https://github.com/vijayDL/DL-playground/blob/master/cnn/1.%20Understanding%20Convolution.ipynb):  Implementing the convolution from scratch, and comparing it with tensorflow implementation.
